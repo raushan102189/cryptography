@@ -16,4 +16,4 @@ def ciser_decrypter_brute(text):
         print("*" * 50)
         result = ""
 
-print(ciser_decrypter_brute(" ajdbjqw120189"))
+print(ciser_decrypter_brute(" ajdbjqw80_443"))
